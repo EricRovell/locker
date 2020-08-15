@@ -1,0 +1,19 @@
+{
+  "type": "paraphrase",
+
+  "paraphrase": "",
+  "hidden": false,
+  "history": [],
+
+  "minWords": 8,
+  "maxWords": 128,
+  "words": 16,
+
+  "separator": "-",
+  "capitalize": false,
+  "uppercase": false,
+
+  "includeNumber": false,
+  "includeWords": [],
+  "excludeWords": []
+}
